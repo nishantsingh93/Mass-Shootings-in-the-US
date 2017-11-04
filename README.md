@@ -42,7 +42,7 @@ Cons:
  
 ¬	Approach: There were some basic data wrangling done where I added some missing data such as Latitude and Longitude for import incidents, followed by rearranging data, deleting irrelevant data. These steps have been explained in my juypter notebook. I choose my metrics to be a comparison between 9 most and least restrictive Gun law states based on total victims by population of that State. 
 
-My Final Dashboard Link is: https://public.tableau.com/views/Redesign_Final/Dashboard?:embed=y&:display_count=yes
+My Final Dashboard Link is: https://public.tableau.com/shared/GNZZNMZD6?:display_count=yes
 
 ¬	Claim: Gun Laws in States not the real cause of Mass Shootings!!
 
