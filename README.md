@@ -17,13 +17,15 @@ https://www.kaggle.com/zusmani/us-mass-shootings-last-50-years/data
 Link to authors visualization: 
 https://www.kaggle.com/cleuton/mass-shootings-study
 
-	Project Plan: The project plan that I have followed deciding on the project, was first looking for the visualization done by authors on the topic. After selecting a visualization that I want redesign, I first understood what the author was trying to do. Then I started data wrangling with the data that I had, where I added some missing data, deleted some rows where data was missing and finally doing some basic visualization in python notebook. Then I started the visualization in Tableau thinking of how can I better do the existing Visualization, thinking of useful metrics and presenting as much information I could in the simplest way possible and getting across the massage on the need for Gun control as soon as possible. I went through intermediate version where I started with very simple Tableau visualization and then I arrived at my final version after many iterations.
+## Project Plan: 
+The project plan that I have followed deciding on the project, was first looking for the visualization done by authors on the topic. After selecting a visualization that I want redesign, I first understood what the author was trying to do. Then I started data wrangling with the data that I had, where I added some missing data, deleted some rows where data was missing and finally doing some basic visualization in python notebook. Then I started the visualization in Tableau thinking of how can I better do the existing Visualization, thinking of useful metrics and presenting as much information I could in the simplest way possible and getting across the massage on the need for Gun control as soon as possible. I went through intermediate version where I started with very simple Tableau visualization and then I arrived at my final version after many iterations.
 
 ******************************************************************************************************************************
 
 ## Making-of the Redesign Project:
 
-### 	Development Process: Understanding the data, and then analyzing the visualization done by the author. The following were the Pros and Cons of the Visualization that the original Visualization had.
+### Development Process:
+Understanding the data, and then analyzing the visualization done by the author. The following were the Pros and Cons of the Visualization that the original Visualization had.
 
 * Pros:
 
