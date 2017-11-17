@@ -37,23 +37,30 @@ https://www.kaggle.com/cleuton/mass-shootings-study
 3) We also need a total count of incidents happening in different states to gauze the effect of gun laws in different states  
 4) Also, a total count of victims will give an insight into possible weapons used such as more no of victims indicate a possible use of automatic weapons
 
-### 	Data Wrangling: The data wrangling is done in Juypter and the I have done a detail explanation in Juypter
+### 	Data Wrangling: 
+
+The data wrangling is done in Juypter and the I have done a detail explanation in Juypter
 
 ### Intermediate visualization:  Explained in Juypter notebook 
 
-### Redesign Visualization:  In my final visualization, I have tried to include three Graphs to explain my findings from the data set. My reason for select a black background was since the graph in the light background was not as reflective as it should have been. The background was very dull and to show my findings I had to highlight it by making the background dark. The following process I went through to do a redesign of the authors dataset 
+### Redesign Visualization:  
+In my final visualization, I have tried to include three Graphs to explain my findings from the data set. My reason for select a black background was since the graph in the light background was not as reflective as it should have been. The background was very dull and to show my findings I had to highlight it by making the background dark. The following process I went through to do a redesign of the authors dataset 
 
 
-### Approach: There were some basic data wrangling done where I added some missing data such as Latitude and Longitude for import incidents, followed by rearranging data, deleting irrelevant data. These steps have been explained in my juypter notebook. I choose my metrics to be a comparison between 9 most and least restrictive Gun law states based on total victims by population of that State. 
+### Approach: 
+There were some basic data wrangling done where I added some missing data such as Latitude and Longitude for import incidents, followed by rearranging data, deleting irrelevant data. These steps have been explained in my juypter notebook. I choose my metrics to be a comparison between 9 most and least restrictive Gun law states based on total victims by population of that State. 
 
 
 #### Claim: Gun Laws in States not the real cause of Mass Shootings!!
 
-#### Data: The data I have clearly acts as my evidence showcasing that the different Gun Laws in various state are not the real cause of these Mass Shootings.
+#### Data: 
+The data I have clearly acts as my evidence showcasing that the different Gun Laws in various state are not the real cause of these Mass Shootings.
 
-#### Warrant: The data I worked with showcases that the number of victims of these mass shootings are on a rise every year. However, the Visualization of total victims to population of the 9 most restrictive and 9 most lenient states show a random pattern where there is no correlation between the ratio generated between the states. This is indirectly conveying that tough the people blame the NRA and lenient Gun laws in the States, the reason for the Mass shooting are much more complex that what it looks like.
+#### Warrant: 
+The data I worked with showcases that the number of victims of these mass shootings are on a rise every year. However, the Visualization of total victims to population of the 9 most restrictive and 9 most lenient states show a random pattern where there is no correlation between the ratio generated between the states. This is indirectly conveying that tough the people blame the NRA and lenient Gun laws in the States, the reason for the Mass shooting are much more complex that what it looks like.
 
-#### Backing: For example, California has the most restrictive gun laws, still it has 392 people dead, whereas Texas and Nevada which have average restriction in gun laws have witnessed 612 and 270 deaths so far in the last 50 years. If we look at the least restrictive states such as Missouri which has seen 4 such incidents of shootings and had 23 victims. At first the visualization may look like the states with more restrictive gun laws had more deaths which means the restrictiveness is somewhat related to it but after analyzing the ratios, it is now clear that more death must do with the weapons used in various incidents in a state. For example, in few of the Incident in Nevada and California   automatic weapons were used. In the first Visualization, we can also see the frequency of attacks are more in the East coast then the west coast but more people have died in the West Coast as the scale of these attacks were very large.
+#### Backing: 
+For example, California has the most restrictive gun laws, still it has 392 people dead, whereas Texas and Nevada which have average restriction in gun laws have witnessed 612 and 270 deaths so far in the last 50 years. If we look at the least restrictive states such as Missouri which has seen 4 such incidents of shootings and had 23 victims. At first the visualization may look like the states with more restrictive gun laws had more deaths which means the restrictiveness is somewhat related to it but after analyzing the ratios, it is now clear that more death must do with the weapons used in various incidents in a state. For example, in few of the Incident in Nevada and California   automatic weapons were used. In the first Visualization, we can also see the frequency of attacks are more in the East coast then the west coast but more people have died in the West Coast as the scale of these attacks were very large.
  
 ******************************************************************************************************************************
 
