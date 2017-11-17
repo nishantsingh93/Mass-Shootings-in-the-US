@@ -12,10 +12,8 @@
 
 *	Data - The data that I have analyzed came from Kaggle, and I used an existing visualization done on this data by Cleuton Sampaio to first understand his findings, present my thoughts about it, criticize it, and do a better Visualization using the same data and same metrics that the author of the original Visualization used. 
 
--> Link of the data set: 
-https://www.kaggle.com/zusmani/us-mass-shootings-last-50-years/data
-Link to authors visualization: 
-https://www.kaggle.com/cleuton/mass-shootings-study
+* Link of the data set: https://www.kaggle.com/zusmani/us-mass-shootings-last-50-years/data
+* Link to authors visualization: https://www.kaggle.com/cleuton/mass-shootings-study
 
 ## Project Plan: 
 The project plan that I have followed deciding on the project, was first looking for the visualization done by authors on the topic. After selecting a visualization that I want redesign, I first understood what the author was trying to do. Then I started data wrangling with the data that I had, where I added some missing data, deleted some rows where data was missing and finally doing some basic visualization in python notebook. Then I started the visualization in Tableau thinking of how can I better do the existing Visualization, thinking of useful metrics and presenting as much information I could in the simplest way possible and getting across the massage on the need for Gun control as soon as possible. I went through intermediate version where I started with very simple Tableau visualization and then I arrived at my final version after many iterations.
