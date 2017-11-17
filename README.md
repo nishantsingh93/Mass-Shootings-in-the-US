@@ -1,7 +1,7 @@
 
-# Redesign Project- US Mass Shootings: Last 50 Years (1966-2017)
+# Redesign Project- Mass Shootings in the US: Last 50 Years (1966-2017)
 
-### Dashboard Link is: https://public.tableau.com/shared/GNZZNMZD6?:display_count=yes
+**Dashboard Link:** https://public.tableau.com/shared/GNZZNMZD6?:display_count=yes
 
 ******************************************************************************************************************************
 ## Project statement:
